@@ -1,3 +1,8 @@
+#-*- coding:utf-8 -*-
+# author:DharmCty
+# datetime:2017/11/7
+# software: PyCharm Community Edition
+
 import copy
 import math
 from graphviz import  Digraph

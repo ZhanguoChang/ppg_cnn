@@ -4,3 +4,6 @@
 数据训练集文件：data.txt
 
 决策树输出文件：Decison.gv.pdf
+
+### 第三方库
+- graphviz
